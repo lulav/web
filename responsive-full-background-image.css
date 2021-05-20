@@ -3,7 +3,7 @@
 */
 body {
   /* Location of the image */
-  background-image: url(images/LULAV_SPACE_DECK_clear.png);
+  background-image: url(images/as11_44_6643_apollo_11_apollo_11_mission_image_view_of_moon_limb.jpg);
   
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -31,6 +31,6 @@ body {
   body {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(images/LULAV_SPACE_DECK_clear.png);
+    background-image: url(images/as11_44_6643_apollo_11_apollo_11_mission_image_view_of_moon_limb.jpg);
   }
 	}
